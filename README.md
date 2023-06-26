@@ -1,4 +1,4 @@
-DevOps with AWS Developer Tools on AWS EKS
+cicd pipeline in EKS
 Step-01: Introduction to DevOps
 Understand DevOps concepts
 CI - Continuous Integration
